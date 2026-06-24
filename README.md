@@ -5,6 +5,37 @@ local `llama.cpp` server (or Ollama), chat with a model, sweep sampling
 parameters to find the best configuration, ground answers in your own documents
 (RAG), and download new GGUF models — all offline, no API keys.
 
+# PolyForm Noncommercial License 1.0.0
+
+[https://polyformproject.org/licenses/noncommercial/1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0)
+
+Required Notice: Copyright © 2026 Kevin Horst.
+
+## Acceptance
+
+In order to get any license under these terms, you must agree
+to them as both strict obligations and conditions to all
+your licenses.
+
+## Copyright License
+
+The licensor grants you a copyright license for the software to
+do everything you might do with the software that would otherwise
+infringe the licensor's copyright in it for any permitted purpose.
+However, you may only distribute the software according to
+[Distribution License](#distribution-license) and make changes or
+new works based on the software according to [Changes and New Works
+License](#changes-and-new-works-license).
+
+## Distribution License
+
+The licensor grants you an additional copyright license to
+distribute copies of the software. Your license to distribute
+covers distributing the software with changes and new works
+permitted by [Changes and New Works License](#changes-and-new-works-license).
+
+
+
 **Integrates with LLM Tester and Sentinel+** for unified metrics and protection across your local AI workflow.
 
 > Part of the **ModelForge** project. App version 0.1.0.
